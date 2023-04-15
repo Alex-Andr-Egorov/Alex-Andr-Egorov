@@ -1,6 +1,6 @@
 
 # 👋🏻 Hi, my name is **Alexandr Egorov**!
-## I am learning to code and looking for my place in IT.
+## I am learning to code.
 ### Check my website: 
 ### ✉️ Mail me: Iehorov1995@gmail.com
 ### Languages and Technologies 
