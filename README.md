@@ -2,7 +2,7 @@
 # 👋🏻 Hi, my name is **Alexandr Egorov**!
 ## I am learning to code.
 ### Check my website: 
-### ✉️ Mail me: Iehorov1995@gmail.com
+### ✉️ Mail me: alexandregorov001@gmail.com
 ### DEVELOPMENT: https://alex-andr-egorov.github.io/index.html
 ### Languages and Technologies 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
